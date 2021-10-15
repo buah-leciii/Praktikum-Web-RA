@@ -1,0 +1,65 @@
+header {
+    text-align: center;
+    background-color: white;
+}
+
+nav {
+    background-color: rgba(144, 5, 5, 0.883);
+    padding: 20px;
+}
+
+.page {
+    font-family: 'Courier New';
+    display: flex;
+    height: auto;
+    width: auto;
+}
+
+.mainPage {
+    background-color: whitesmoke;
+    height: auto;
+    width: 65%;
+    align-items: center;
+}
+
+.mainPage h2 {
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.table {
+    font-size: 18px;
+}
+
+.table td {
+    padding: 12px 15px;
+    font-size: 18px;
+}
+
+.sidePage {
+    background-color: rgba(144, 5, 5, 0.883);
+    height: auto;
+    width: 35%;
+    display: flex;
+    padding: 10px;
+    display: inline-block;
+}
+
+.sidePage h1 {
+    text-align: center;
+}
+
+.sidePage a {
+    text-transform: uppercase;
+    padding: 10px;
+    text-align: justify;
+}
+
+footer {
+    background-color: white;
+}
+
+footer tr {
+    text-align: center;
+}
